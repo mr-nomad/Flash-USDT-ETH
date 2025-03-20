@@ -6,4 +6,4 @@ Key Features:
 - Manage wallets with private key input and view ETH balance
 - Send flash transactions valid up to 90 days
 
-For learning purposes only—use responsibly.
+For learning purposes use responsibly.
