@@ -52,7 +52,7 @@ A powerful and user-friendly desktop application compiled as a `.exe` for intera
 ## ⚠️ Notes
 - Ensure your wallet has sufficient ETH to cover gas fees—transactions will fail without it!
 - Double-check delivery addresses; errors may result in permanent loss of funds.
-- For educational use only—test in a safe environment first.
+- For educational use only test in a safe environment first.
 
 ## 🌟 Contributions
 Feel free to fork, submit issues, or send pull requests! Let’s make this tool even better together. 🙌
